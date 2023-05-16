@@ -22,7 +22,7 @@ delete a group
 Make the script executable:
 
 ```
-chmod +x admin_tool.sh
+chmod +x menu.sh
 ```
 Run the script:
 
@@ -33,8 +33,8 @@ Run the script:
 You'll see the main menu:
 
 
-User Management
-Group Management
+-User Management options
+-Group Management options
 Exit
 
 Choose an option:
